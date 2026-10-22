@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 ## Estatísticas do GitHub 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMatheus1Santos&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1Santos&show_icons=true&theme=tokyonight) 
 ---
 ## Como me encontrar
 
