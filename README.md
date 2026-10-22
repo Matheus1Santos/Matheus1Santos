@@ -18,9 +18,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 ---
 ## Estatísticas do GitHub 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMatheus1Santos&show_icons=true&theme=tokyonight) 
 ---
-## Como me encontrar 
+## Como me encontrar
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:m995108281@gmail.com) 
 ---
 *“Sempre aprendendo e evoluindo como desenvolvedor.”*
